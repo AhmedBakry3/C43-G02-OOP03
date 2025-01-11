@@ -13,13 +13,14 @@ namespace Assignment_Session_3_OOP
             //We need to restrict the Gender field to be only M or F[Male or Female]
             //Assign the following security privileges to the employee(guest, Developer, secretary and DBA) in a form of Enum.
             //We want to provide the Employee Class to represent Employee data in a string Form(override ToString()), display employee salary in a currency format. [Use String.Format() Function].
-            #endregion
 
             //In question 1 , I made
             //1-Employee Class
             //3-Enum For Gender
             //4-Enum For Security level
             //5-Enum
+            #endregion
+
             #region 2.Develop a Class to represent the Hiring Date Data:
             //Consisting of fields to hold the day, month and Years.
 
