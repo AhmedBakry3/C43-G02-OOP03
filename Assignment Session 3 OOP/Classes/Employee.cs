@@ -100,7 +100,7 @@ namespace Assignment_Session_3_OOP.Classes
         // Property for Gender (using enum)
         public Gender gender { get; set; } // Since there is not logic to put , we will do it with automatic property
 
-        // Property for HireDate
+        // Property for HireDate (using HiringDate Class)
         public HiringDate HiringDate { get; set; } // Since there is not logic to put , we will do it with automatic property
 
         #endregion
