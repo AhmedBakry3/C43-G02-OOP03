@@ -97,12 +97,11 @@ namespace Assignment_Session_3_OOP.Classes
         // Property for Security Level (using enum)
          public SecurityLevel securitylevel { get; set; } // Since there is not logic to put , we will do it with automatic property
 
-        // Property for HireDate (using enum)
-        public HiringDate HiringDate { get; set; } // Since there is not logic to put , we will do it with automatic property
-
-
         // Property for Gender (using enum)
         public Gender gender { get; set; } // Since there is not logic to put , we will do it with automatic property
+
+        // Property for HireDate
+        public HiringDate HiringDate { get; set; } // Since there is not logic to put , we will do it with automatic property
 
         #endregion
 
