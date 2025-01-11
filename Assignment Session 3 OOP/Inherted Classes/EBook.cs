@@ -22,7 +22,7 @@ namespace Assignment_Session_3_OOP.Inherted_Classes
         {
             return $"Title={Title}\nAutor={Author}\nISBN={ISBN}\nFileSize={FileSize} MB";
         }
-        public new void MyFunc()
+        public new void MyFunc()  //override by using "new" KeyWord
         {
             Console.WriteLine("I Am child");
         }
